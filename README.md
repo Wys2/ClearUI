@@ -3,8 +3,9 @@ ClearUI is a MacOSX terminal profile. *Simple, Nice looking, Fast.*
 ![ClearUI](https://user-images.githubusercontent.com/48517965/192037973-edded991-ae15-4eba-99f1-14c92772b9ea.png)
 
 ## Installation
-1. Download `ClearUI.terminal`.
-2. Open `Terminal.app`. *(⌘ + Space, Terminal, Enter)*
+
+1. Download `ClearUI.terminal`
+2. Open `Terminal.app` *(⌘ + Space, Terminal, Enter)*
 3. Goto `Terminal > Preferences`. Down the profiles list `Three Dots > Import`. Select ClearUI.terminal
 
 ## Issues, recommandations, support.
